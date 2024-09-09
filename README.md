@@ -15,6 +15,8 @@
         <br>
         <a>All the projects here are made by students with the intent of learning about software, tools and games programming.</a>
         <a>Everything in this repository is licensed under CC0 1.0 Universal.</a>
+        <br>
+        <img src="https://github.com/user-attachments/assets/8807dbab-54ba-4d73-a2d8-f10fca9391d6" align="center" height="60%">
       </div>
     </td>
   </tr>
@@ -28,3 +30,5 @@
 <ul>
   <li><b>09/09/24:</b> Loading sprites with Monogame without MGCB</li>
 </ul>
+
+
