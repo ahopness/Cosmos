@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "map_01.tmx": {
+            "scale": 2.8391,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 132.61244760663587,
+                "y": 74.14321439892922
+            }
+        },
+        "tileset_1.tsx": {
+            "scaleInDock": 2.9851,
+            "scaleInEditor": 4.3375
+        }
+    },
+    "last.exportedFilePath": "/home/lucas/Files/Dev/Repos/Cosmos/week-challenges/09-09/polka/Content/Maps",
+    "last.imagePath": "/home/lucas/Files/Dev/Repos/Cosmos/week-challenges/09-09/polka/res",
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "openFiles": [
+    ],
+    "project": "polka.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "tileset_1.tsx",
+        "map_01.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}
