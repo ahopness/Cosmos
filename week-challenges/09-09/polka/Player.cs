@@ -1,4 +1,5 @@
 using System.Numerics;
+using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
 
 namespace Polka;
@@ -8,7 +9,7 @@ public class Player : PSprite
     public int[] anmIdle = { 0 };
     public int[] anmJump = { 1 };
     public int[] anmWalk = { 2, 0, 3, 0 };
-    public override void Load(GraphicsDevice graphicsDevice)
+    public override void Load(GraphicsDevice graphicsDevice, ContentManager content)
     {
         position = new Vector2( 256/2, 144/2 );
         sprite = Texture2D.FromFile(graphicsDevice, "Content/Sprites/char.png");
@@ -18,6 +19,6 @@ public class Player : PSprite
         anmSpeed = 10;
         anm = anmWalk;
 
-        base.Load(graphicsDevice);
+        base.Load(graphicsDevice, content);
     }
 }

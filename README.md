@@ -28,7 +28,8 @@
 
 <h3>Mini-Hackathons/Week Challenges</h2>
 <ul>
-  <li><b>09/09/24:</b> Loading sprites with Monogame without MGCB</li>
+  <li><b><a href="https://github.com/ahopness/Cosmos/tree/main/week-challenges/09-09">09/09/24:</a></b> Loading sprites with <a href="https://www.monogame.net/">Monogame</a> without MGCB</li>
+  <li><b><a href="https://github.com/ahopness/Cosmos/tree/main/week-challenges/20-09">20/09/24:</a></b> Writing a platformer character controller with <a href="https://github.com/MrScautHD/Raylib-CSharp">Raylib-CSharp</a></li>
 </ul>
 
 

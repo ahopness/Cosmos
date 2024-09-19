@@ -5,6 +5,7 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace Polka;
 
+/*
 public class PTilemap : PObject
 {
     public Dictionary<Vector2, int> tilemapInfo;
@@ -86,3 +87,4 @@ public class PTilemap : PObject
         base.Draw(spriteBatch);
     }
 }
+*/

@@ -49,7 +49,7 @@ public class PolkaGame : Game
     {
         _spriteBatch = new SpriteBatch(GraphicsDevice);
 
-        currentScene.Load( GraphicsDevice );
+        currentScene.Load( GraphicsDevice, Content );
     }
 
     protected override void Update(GameTime gameTime)
