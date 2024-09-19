@@ -8,6 +8,7 @@ namespace Platformer
         public int[] anmIdle = { 0 };
         public int[] anmJump = { 1 };
         public int[] anmWalk = { 2, 0, 3, 0 };
+
         public override void Create()
         {
             sprite = Texture2D.Load("Content/Sprites/char.png");

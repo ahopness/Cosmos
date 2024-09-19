@@ -24,7 +24,7 @@ namespace Platformer
                         i * tileset.tileWidth,
                         j * tileset.tileHeight
                         );
-                    
+
                     Graphics.DrawTextureRec(
                         tileset.spriteSheet,
                         tile.rect,

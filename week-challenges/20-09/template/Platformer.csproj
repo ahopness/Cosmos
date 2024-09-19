@@ -19,7 +19,6 @@
 
   <ItemGroup>
     <PackageReference Include="Raylib-CSharp" Version="4.1.9" />
-    <PackageReference Include="Box2D.NetStandard" Version="2.4.7-alpha" />
   </ItemGroup>
 
 </Project>

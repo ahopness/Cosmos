@@ -13,7 +13,7 @@ namespace Platformer
     {
         public static Game Instance { get; private set; }
 
-        public Scene currentScene;
+        public static Scene currentScene;
 
         public void Run() 
         {

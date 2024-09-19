@@ -1,3 +1,5 @@
+using System.Numerics;
+
 namespace Platformer
 {
     public static class Config
@@ -9,5 +11,7 @@ namespace Platformer
         public const int windowScale = 4;
 
         public const int targetFPS = 60;
+
+        public static Vector2 gravity = new Vector2( 0, -9.8f );
     }
 }
