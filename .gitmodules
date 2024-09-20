@@ -1,0 +1,3 @@
+[submodule "week-challenges/20-09/betterzelda"]
+	path = week-challenges/20-09/betterzelda
+	url = https://github.com/undephying/TheBetterZelda.git
