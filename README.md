@@ -30,7 +30,7 @@
 <ul>
   <li><b><a href="https://github.com/ahopness/Cosmos/tree/main/week-challenges/09-09">09/09/24:</a></b> Loading sprites with <a href="https://www.monogame.net/">Monogame</a> without MGCB</li>
   <li><b><a href="https://github.com/ahopness/Cosmos/tree/main/week-challenges/20-09">20/09/24:</a></b> Writing a platformer character controller with <a href="https://github.com/MrScautHD/Raylib-CSharp">Raylib-CSharp</a></li>
-  <li><b><a href="https://github.com/ahopness/Cosmos/tree/main/week-challenges/19-03">19/03/25:</a></b> Simple Discord Bot</li>
+  <li><b><a href="https://github.com/ahopness/Cosmos/tree/main/week-challenges/19-03">19/03/25:</a></b> Simple Discord Bot using both <a href="https://github.com/Rapptz/discord.py">Discord.py</a> & <a href="https://github.com/discordjs/discord.js">Discord.js</a></li>
 </ul>
 
 
